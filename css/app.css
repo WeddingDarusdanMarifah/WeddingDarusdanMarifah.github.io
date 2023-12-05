@@ -147,7 +147,7 @@ footer {
 .fa-solid, .fas{
     color: black;
 }
-.d-block{
+.d-block, .pt-2{
     color: black;
 }
 .navbar-nav {
@@ -163,6 +163,9 @@ footer {
 .m-2, .mt-0, .text-light {
     color:black;
 }
-#nama-tamu{
-    color: black;
+.py-2, .fa-solid{
+    border-color: black;
+}
+.fa-solid{
+    border-color: black;
 }
